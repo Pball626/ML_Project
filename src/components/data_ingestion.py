@@ -8,6 +8,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split # ML libary
 from dataclasses import dataclass
 from data_transformation import DataTransformation
+from data_transformation import DataTransformationConfig
 
 # inputs are required where you will recieve raw data or train data
 
